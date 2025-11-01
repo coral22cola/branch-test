@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 first edition
 second edition!
 third edition
 issue resolved
 
+=======
+edition
+>>>>>>> b8f469bff079b7dd3476370f0aaba85bfccbfc7e
