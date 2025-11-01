@@ -2,14 +2,7 @@ first edition
 second edition!
 third edition
 issue resolved
-<<<<<<< HEAD
-hotfix my solution
-
-=======
-edition
->>>>>>> b8f469bff079b7dd3476370f0aaba85bfccbfc7e
-=======
 Hotfix team's solution
->>>>>>> origin/main
 New function added
+Team upgraded
 
