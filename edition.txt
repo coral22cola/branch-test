@@ -11,3 +11,5 @@ edition
 =======
 Hotfix team's solution
 >>>>>>> origin/main
+New function added
+
